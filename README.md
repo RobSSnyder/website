@@ -1,19 +1,15 @@
-# Andrew D Snyder
+# Rob S Snyder
 
 - 
-  - [ndsnyder@umich.edu](mailto:ndsnyder@umich.edu)
-  - <a class="linked-in" href="https://www.linkedin.com/in/adsnyder/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/200px-Linkedin.svg.png">LinkedIn</a>
-  - Mobile: 734-834-5941
+  - [robssnyder32@gmail.com](mailto:robssnyder32@gmail.com)
+  - <a class="linked-in" href="https://www.linkedin.com/in/rob-snyder-111a40267/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/200px-Linkedin.svg.png">LinkedIn</a>
+  - Mobile: 734-834-5942
   - Location: Ann Arbor, MI
-- ![](Andy.jpg)
+- ![](rob.jpg)
 
 ## Objective
 
-Enthusiastic and driven recent Economics graduate from the University of Michigan, seeking an entry-level position in the field of economics to apply and expand my skills in policy analysis, data-driven decision-making, and financial analysis. 
-
-- With a strong academic foundation and a passion for utilizing economic principles to address real-world challenges, I am committed to contributing to the organization's success by providing actionable insights and supporting data-informed strategies. 
-
-- Eager to learn and grow in a dynamic professional environment, I aspire to collaborate with diverse teams, enhance my expertise, and make a positive impact on the organization's objectives and the broader community.
+Economics graduate with a minor in Computer Science seeking an entry-level position at the intersection of both fields. Combining a strong foundation in economic principles and data analysis with programming skills, I aim to contribute to a dynamic team, leveraging technical and critical thinking to drive strategic decision-making and business growth. With a passion for computer science, I am particularly interested in applying my programming expertise and exploring emerging technologies to develop innovative solutions that optimize economic analysis, automate processes, and unlock new insights from complex datasets.
 
 ## Education
 
