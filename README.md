@@ -13,11 +13,8 @@ Economics graduate with a minor in Computer Science seeking an entry-level posit
 
 ## Education
 
-- ![Download as PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/30px-Michigan_Wolverines_logo.svg.png)**University of Michigan, Ann Arbor, MI**  
-Bachelor of Arts in Economics - April, 2023
-
-- **Washtenaw Community College, Ann Arbor, MI**  
-Associate of Arts in Business, 2021
+- **Michigan State University, East Lansing, MI**  
+Bachelor of Arts in Economics - December, 2023
 
 ### Relevant Coursework
 - Microeconomics
