@@ -16,23 +16,46 @@ Economics graduate with a minor in Computer Science seeking an entry-level posit
 - **Michigan State University, East Lansing, MI**  
 Bachelor of Arts in Economics - December, 2023
 
-### Relevant Coursework
+### Economics Major
 - Microeconomics
 - Macroeconomics
 - Econometrics
 - International Economics
 - Monetary Economics
-- Public Finance
-- Economic Policy Analysis
+- 
+### Computer Science Minor
+- Discrete Structures
+- Mobile Application Development
+- Object-Oriented Software Design
+- Computer Graphics
+
+### Resource Management Minor From the Individual, Family and Societal perspective
+- Personal Finance
+- Creativity and Innovative Entrepreneurship
+- Econometrics
+- Management Skills and Processes
+- Applied Resource Management Practicum
 
 ## Experience
 
-**Life Guard, Ann Arbor YMCA**  
-September, 2018 to Present
-- Supervised the safety and well-being of pool patrons while enforcing facility rules and regulations
-- Conducted regular inspections of pool area and equipment to ensure a clean and safe environment
-- Provided first aid and emergency response as needed, maintaining certification in CPR and First Aid
-- Developed strong communication and interpersonal skills while interacting with diverse groups of people
+**Jagged Fork - Food Service Worker**  
+May 2023 - Current
+- Maintain excellent customer service by addressing inquiries, resolving issues, and providing a positive dining experience.
+- Collaborate closely with the kitchen staff to coordinate and prioritize food orders, ensuring timely preparation and delivery.
+- Organize and streamline the food delivery process, optimizing efficiency and minimizing errors.
+Adapt to high-pressure situations and maintain composure during peak dining hours.
+
+**Powerhouse Gym - Staff Member**  
+May 2022 - Aug 2022
+- Greeted members and guests in a friendly and professional manner, answering questions and providing information as needed
+- Maintained cleanliness and organization of the front desk area and lobby
+- Assisted with selling gym memberships and promoting gym services to potential members
+
+- **Michigan State University - Student Maintenance Assistant**  
+May 2021 - Aug 2021
+- Painted and maintained college dorms
+- Conducted minor maintenance and repair work such as replacing light bulbs, fixing doors and windows, and patching holes in walls
+- Followed established safety procedures and guidelines to ensure the safety of oneself and others while working
 
 ## Skills
 - Solid foundation in economic principles, policy analysis, and quantitative methods
@@ -42,8 +65,13 @@ September, 2018 to Present
 - Able to work independently and collaboratively in team settings
 
 ## Other Interests
-- Recreational Sports: Actively participate in basketball and soccer, fostering teamwork, leadership, and commitment.
-- Travel: Passionate about exploring new cultures and destinations, with extensive domestic and international travel experience, enhancing adaptability, communication, and interpersonal skills.
+### Rowing
+Throughout high school, I dedicated four years to rowing, a challenging and exhilarating sport. I honed discipline, time management, and the ability to thrive under pressure. Our team's success was highlighted by winning a national medal. This experience fostered trust and valuable teamwork skills, shaping my character and instilling the values of perseverance, determination, and collaboration.
+### Power up Program
+Week-long coding bootcamp in electrical engineering. Acquired practical skills in electrical circuitry, troubleshooting, and system design. Proficient in programming languages relevant to the field. Combining economic and engineering perspectives, I approach problem-solving holistically, with a strong ability to tackle complex challenges
+### Childhood Stop Motion
+From a young age I've always been interested in technology and used to make stop motion videos in elementary school.
+  - <a class="linked-in" href="https://www.linkedin.com/in/rob-snyder-111a40267/" target="_blank">Link</a>
 
 ## References
 
