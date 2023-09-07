@@ -50,8 +50,8 @@ May 2022 - Aug 2022
 - Greeted members and guests in a friendly and professional manner, answering questions and providing information as needed
 - Maintained cleanliness and organization of the front desk area and lobby
 - Assisted with selling gym memberships and promoting gym services to potential members
-
-- **Michigan State University - Student Maintenance Assistant**  
+- 
+ **Michigan State University - Student Maintenance Assistant**  
 May 2021 - Aug 2021
 - Painted and maintained college dorms
 - Conducted minor maintenance and repair work such as replacing light bulbs, fixing doors and windows, and patching holes in walls
@@ -71,7 +71,7 @@ Throughout high school, I dedicated four years to rowing, a challenging and exhi
 Week-long coding bootcamp in electrical engineering. Acquired practical skills in electrical circuitry, troubleshooting, and system design. Proficient in programming languages relevant to the field. Combining economic and engineering perspectives, I approach problem-solving holistically, with a strong ability to tackle complex challenges
 ### Childhood Stop Motion
 From a young age I've always been interested in technology and used to make stop motion videos in elementary school.
-  - <a class="linked-in" href="https://www.linkedin.com/in/rob-snyder-111a40267/" target="_blank">Link</a>
+  <a class="linked-in" href="https://www.youtube.com/@rdsnyderjr/videos" target="_blank">Link</a>
 
 ## References
 
