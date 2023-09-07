@@ -5,7 +5,7 @@
   - <a class="linked-in" href="https://www.linkedin.com/in/rob-snyder-111a40267/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/200px-Linkedin.svg.png">LinkedIn</a>
   - Mobile: 734-834-5942
   - Location: Ann Arbor, MI
-- ![](Rob.png)
+  ![](Rob.png)
 
 ## Objective
 
@@ -22,7 +22,7 @@ Bachelor of Arts in Economics - December, 2023
 - Econometrics
 - International Economics
 - Monetary Economics
-- 
+  
 ### Computer Science Minor
 - Discrete Structures
 - Mobile Application Development
